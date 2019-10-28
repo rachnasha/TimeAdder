@@ -3,7 +3,7 @@ package affinypay
 import scala.util.{Failure, Success, Try}
 
 /**
-  * Responsible for reading and writing from/to file.
+  * Takes user input and prints the new time
   */
 
 object TimeApp extends App {
